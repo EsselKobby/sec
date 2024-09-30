@@ -1,1 +1,1 @@
-@py.exe C:\Users\essel\OneDrive\Desktop\PythonTutorials\MiniProjects\PassLock\pwlock.py %*
+@py.exe [absolute file path] %*
