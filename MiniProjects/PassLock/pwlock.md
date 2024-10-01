@@ -19,6 +19,12 @@ This project is not secured but I will continue to apply and build on it so as t
 
 ###### PROGRAM DESIGN & DOCUMENTATION
 
+This program is designed to run with a command line argument 
+that is the account’s name—for instance, email or blog. That account’s 
+password will be copied to the clipboard so that the user can paste it into 
+a Password field. This way, the user can have long, complicated passwords 
+without having to memorize them.
+
 **Python Module Import**
 
 This program makes use of the system variables and command line functions,there is the need for a system import.We then use:
