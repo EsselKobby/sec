@@ -2,8 +2,7 @@
 # pwlock.py - A password locker program.
 
 # Import of Python Modules
-import sys
-import pyperclip
+import sys, pyperclip
 
 
 #Program Design and Data Structures
