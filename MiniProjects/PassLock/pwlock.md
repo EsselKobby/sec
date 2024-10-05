@@ -42,5 +42,5 @@ This program makes use of the system variables and command line functions,there 
 
 **Right Password Copy**
 
-The program checks up the key:value pair in the dictionary to validate if it is already saved up.
+The program checks up the **key:value** pair in the dictionary to validate if it is already saved up.
 
